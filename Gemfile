@@ -15,7 +15,7 @@ gem "pg", "~> 1.0"
 gem "webrick"
 
 # gem "falcon"
-gem "evt" #, github: "dsh0416/evt"
+gem "evt", github: "dsh0416/evt"
 
 # Use SCSS for stylesheets
 # gem 'sass-rails', '>= 6'

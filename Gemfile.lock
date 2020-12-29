@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/dsh0416/evt.git
+  revision: 7b1beba3e02461c627f5c85969658cc7852f15d6
+  specs:
+    evt (0.4.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -66,7 +72,6 @@ GEM
     concurrent-ruby (1.1.7)
     crass (1.0.6)
     erubi (1.10.0)
-    evt (0.4.0)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
     i18n (1.8.5)
@@ -164,7 +169,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
-  evt
+  evt!
   pg (~> 1.0)
   rails (~> 6.1.0)
   rubocop
